@@ -5,7 +5,7 @@ Full-stack website created for NGO "Best Practices Foundation" which aims at ele
 ## Features
 - Digitized recording of baseline and inline data.
 - Dedicated page for training through course modules.
-- Assessment creation and assessment taking.
+- Assessment creation and assessment taking with appropriate grading.
 - Chatbot for answering relevant questions for trainers helping people start businesses of their own.
 - Visualization of all the relevant data on the platform.
 
