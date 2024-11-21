@@ -1,6 +1,7 @@
 # Best Practices Foundation
 
 Full-stack website created for NGO "Best Practices Foundation" which aims at elevating poor women and helping them start their own personal ventures.
+[Demo](https://drive.google.com/file/d/1KGIPjBnBLf5FbmqCBYqI891oMqD6C-Hw/view)
 
 ## Features
 - Digitized recording of baseline and inline data.
@@ -10,6 +11,6 @@ Full-stack website created for NGO "Best Practices Foundation" which aims at ele
 - Visualization of all the relevant data on the platform.
 
 ## Tech Stack
-- *Frontend*: ReactJs
-- *Backend*: Express.js, Node.js
-- *Database*: MongoDB
+- **Frontend**: ReactJs
+- **Backend**: Express.js, Node.js
+- **Database**: MongoDB
